@@ -1,0 +1,6 @@
+/home/supsun/workspace/projects/lab03/formatter_ex_lib/tmp/CMakeFiles/rebuild_cache.dir
+/home/supsun/workspace/projects/lab03/formatter_ex_lib/tmp/CMakeFiles/edit_cache.dir
+/home/supsun/workspace/projects/lab03/formatter_ex_lib/tmp/CMakeFiles/formatter_ex.dir
+/home/supsun/workspace/projects/lab03/formatter_ex_lib/tmp/formatter_lib/CMakeFiles/rebuild_cache.dir
+/home/supsun/workspace/projects/lab03/formatter_ex_lib/tmp/formatter_lib/CMakeFiles/edit_cache.dir
+/home/supsun/workspace/projects/lab03/formatter_ex_lib/tmp/formatter_lib/CMakeFiles/formatter.dir

@@ -1,0 +1,4 @@
+/home/supsun/workspace/projects/lab03/_install/lib/libprint.a
+/home/supsun/workspace/projects/lab03/_install/include/print.hpp
+/home/supsun/workspace/projects/lab03/_install/cmake/print-config.cmake
+/home/supsun/workspace/projects/lab03/_install/cmake/print-config-noconfig.cmake
