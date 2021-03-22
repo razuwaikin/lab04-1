@@ -216,6 +216,21 @@ Project_BINARY_DIR:STATIC=/home/supsun/workspace/projects/lab04
 Project_SOURCE_DIR:STATIC=/home/supsun/workspace/projects/lab04
 
 //Value Computed by CMake
+formatter_ex_BINARY_DIR:STATIC=/home/supsun/workspace/projects/lab04/hello_world_application/formatter_ex_lib
+
+//Dependencies for the target
+formatter_ex_LIB_DEPENDS:STATIC=general;formatter;
+
+//Value Computed by CMake
+formatter_ex_SOURCE_DIR:STATIC=/home/supsun/workspace/projects/lab04/hello_world_application/formatter_ex_lib
+
+//Value Computed by CMake
+hello_world_BINARY_DIR:STATIC=/home/supsun/workspace/projects/lab04/hello_world_application
+
+//Value Computed by CMake
+hello_world_SOURCE_DIR:STATIC=/home/supsun/workspace/projects/lab04/hello_world_application
+
+//Value Computed by CMake
 travis_BINARY_DIR:STATIC=/home/supsun/workspace/projects/lab04
 
 //Value Computed by CMake
