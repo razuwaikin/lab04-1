@@ -145,7 +145,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Project
+CMAKE_PROJECT_NAME:STATIC=travis
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -214,6 +214,12 @@ Project_BINARY_DIR:STATIC=/home/supsun/workspace/projects/lab04
 
 //Value Computed by CMake
 Project_SOURCE_DIR:STATIC=/home/supsun/workspace/projects/lab04
+
+//Value Computed by CMake
+travis_BINARY_DIR:STATIC=/home/supsun/workspace/projects/lab04
+
+//Value Computed by CMake
+travis_SOURCE_DIR:STATIC=/home/supsun/workspace/projects/lab04
 
 
 ########################
