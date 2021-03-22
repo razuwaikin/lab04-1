@@ -1,0 +1,2 @@
+/home/supsun/workspace/projects/lab04/CMakeFiles/rebuild_cache.dir
+/home/supsun/workspace/projects/lab04/CMakeFiles/edit_cache.dir
