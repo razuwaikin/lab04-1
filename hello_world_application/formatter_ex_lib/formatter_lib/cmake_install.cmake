@@ -1,4 +1,4 @@
-# Install script for directory: /home/supsun/workspace/projects/lab03/hello_world_application/formatter_ex_lib/formatter_lib
+# Install script for directory: /home/supsun/workspace/projects/lab04/hello_world_application/formatter_ex_lib/formatter_lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

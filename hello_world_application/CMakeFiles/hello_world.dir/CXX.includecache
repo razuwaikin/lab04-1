@@ -6,3 +6,15 @@
 
 #IncludeRegexTransform: 
 
+/home/supsun/workspace/projects/lab04/hello_world_application/hello_world.cpp
+iostream
+-
+formatter_ex.h
+/home/supsun/workspace/projects/lab04/hello_world_application/formatter_ex.h
+
+formatter_ex_lib/formatter_ex.h
+string
+-
+iostream
+-
+

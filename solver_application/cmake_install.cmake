@@ -1,4 +1,4 @@
-# Install script for directory: /home/supsun/workspace/projects/lab03/solver_application
+# Install script for directory: /home/supsun/workspace/projects/lab04/solver_application
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,8 +39,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib/cmake_install.cmake")
-  include("/home/supsun/workspace/projects/lab03/solver_application/solver_lib/cmake_install.cmake")
+  include("/home/supsun/workspace/projects/lab04/solver_application/formatter_ex_lib/cmake_install.cmake")
+  include("/home/supsun/workspace/projects/lab04/solver_application/solver_lib/cmake_install.cmake")
 
 endif()
 
@@ -52,5 +52,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/supsun/workspace/projects/lab03/solver_application/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/supsun/workspace/projects/lab04/solver_application/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -7,3 +7,4 @@ include_directories(solver_lib)
 add_subdirectory(solver_lib)
 target_link_libraries(solver formatter_ex)
 target_link_libraries(solver solver_lib)
+

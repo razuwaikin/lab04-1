@@ -1,9 +1,12 @@
 language: cpp
 
 script:
-- cmake -H. -B_build -DCMAKE_INSTALL_PREFIX=_install
-- cmake --build _build
-- cmake --build _build --target install
+- cd solver_application
+- cmake .
+- make
+- cd ../hello_worldd_application
+- cmake .
+- make
 
 addons:
   apt:

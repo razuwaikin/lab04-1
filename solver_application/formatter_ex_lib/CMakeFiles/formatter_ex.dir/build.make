@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/supsun/workspace/projects/lab03/solver_application
+CMAKE_SOURCE_DIR = /home/supsun/workspace/projects/lab04/solver_application
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/supsun/workspace/projects/lab03/solver_application
+CMAKE_BINARY_DIR = /home/supsun/workspace/projects/lab04/solver_application
 
 # Include any dependencies generated for this target.
 include formatter_ex_lib/CMakeFiles/formatter_ex.dir/depend.make
@@ -59,16 +59,16 @@ include formatter_ex_lib/CMakeFiles/formatter_ex.dir/flags.make
 
 formatter_ex_lib/CMakeFiles/formatter_ex.dir/formatter_ex.cpp.o: formatter_ex_lib/CMakeFiles/formatter_ex.dir/flags.make
 formatter_ex_lib/CMakeFiles/formatter_ex.dir/formatter_ex.cpp.o: formatter_ex_lib/formatter_ex.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/supsun/workspace/projects/lab03/solver_application/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object formatter_ex_lib/CMakeFiles/formatter_ex.dir/formatter_ex.cpp.o"
-	cd /home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/formatter_ex.dir/formatter_ex.cpp.o -c /home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib/formatter_ex.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/supsun/workspace/projects/lab04/solver_application/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object formatter_ex_lib/CMakeFiles/formatter_ex.dir/formatter_ex.cpp.o"
+	cd /home/supsun/workspace/projects/lab04/solver_application/formatter_ex_lib && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/formatter_ex.dir/formatter_ex.cpp.o -c /home/supsun/workspace/projects/lab04/solver_application/formatter_ex_lib/formatter_ex.cpp
 
 formatter_ex_lib/CMakeFiles/formatter_ex.dir/formatter_ex.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/formatter_ex.dir/formatter_ex.cpp.i"
-	cd /home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib/formatter_ex.cpp > CMakeFiles/formatter_ex.dir/formatter_ex.cpp.i
+	cd /home/supsun/workspace/projects/lab04/solver_application/formatter_ex_lib && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/supsun/workspace/projects/lab04/solver_application/formatter_ex_lib/formatter_ex.cpp > CMakeFiles/formatter_ex.dir/formatter_ex.cpp.i
 
 formatter_ex_lib/CMakeFiles/formatter_ex.dir/formatter_ex.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/formatter_ex.dir/formatter_ex.cpp.s"
-	cd /home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib/formatter_ex.cpp -o CMakeFiles/formatter_ex.dir/formatter_ex.cpp.s
+	cd /home/supsun/workspace/projects/lab04/solver_application/formatter_ex_lib && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/supsun/workspace/projects/lab04/solver_application/formatter_ex_lib/formatter_ex.cpp -o CMakeFiles/formatter_ex.dir/formatter_ex.cpp.s
 
 # Object files for target formatter_ex
 formatter_ex_OBJECTS = \
@@ -80,9 +80,9 @@ formatter_ex_EXTERNAL_OBJECTS =
 formatter_ex_lib/libformatter_ex.a: formatter_ex_lib/CMakeFiles/formatter_ex.dir/formatter_ex.cpp.o
 formatter_ex_lib/libformatter_ex.a: formatter_ex_lib/CMakeFiles/formatter_ex.dir/build.make
 formatter_ex_lib/libformatter_ex.a: formatter_ex_lib/CMakeFiles/formatter_ex.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/supsun/workspace/projects/lab03/solver_application/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libformatter_ex.a"
-	cd /home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib && $(CMAKE_COMMAND) -P CMakeFiles/formatter_ex.dir/cmake_clean_target.cmake
-	cd /home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/formatter_ex.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/supsun/workspace/projects/lab04/solver_application/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libformatter_ex.a"
+	cd /home/supsun/workspace/projects/lab04/solver_application/formatter_ex_lib && $(CMAKE_COMMAND) -P CMakeFiles/formatter_ex.dir/cmake_clean_target.cmake
+	cd /home/supsun/workspace/projects/lab04/solver_application/formatter_ex_lib && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/formatter_ex.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 formatter_ex_lib/CMakeFiles/formatter_ex.dir/build: formatter_ex_lib/libformatter_ex.a
@@ -90,10 +90,10 @@ formatter_ex_lib/CMakeFiles/formatter_ex.dir/build: formatter_ex_lib/libformatte
 .PHONY : formatter_ex_lib/CMakeFiles/formatter_ex.dir/build
 
 formatter_ex_lib/CMakeFiles/formatter_ex.dir/clean:
-	cd /home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib && $(CMAKE_COMMAND) -P CMakeFiles/formatter_ex.dir/cmake_clean.cmake
+	cd /home/supsun/workspace/projects/lab04/solver_application/formatter_ex_lib && $(CMAKE_COMMAND) -P CMakeFiles/formatter_ex.dir/cmake_clean.cmake
 .PHONY : formatter_ex_lib/CMakeFiles/formatter_ex.dir/clean
 
 formatter_ex_lib/CMakeFiles/formatter_ex.dir/depend:
-	cd /home/supsun/workspace/projects/lab03/solver_application && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/supsun/workspace/projects/lab03/solver_application /home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib /home/supsun/workspace/projects/lab03/solver_application /home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib /home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib/CMakeFiles/formatter_ex.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/supsun/workspace/projects/lab04/solver_application && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/supsun/workspace/projects/lab04/solver_application /home/supsun/workspace/projects/lab04/solver_application/formatter_ex_lib /home/supsun/workspace/projects/lab04/solver_application /home/supsun/workspace/projects/lab04/solver_application/formatter_ex_lib /home/supsun/workspace/projects/lab04/solver_application/formatter_ex_lib/CMakeFiles/formatter_ex.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : formatter_ex_lib/CMakeFiles/formatter_ex.dir/depend
 

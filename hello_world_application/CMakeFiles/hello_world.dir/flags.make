@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/supsun/workspace/projects/lab03/hello_world_application/formatter_ex_lib 
+CXX_INCLUDES = -I/home/supsun/workspace/projects/lab04/hello_world_application/formatter_ex_lib 
 

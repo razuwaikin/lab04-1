@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/supsun/workspace/projects/lab03/solver_application/equation.cpp" "/home/supsun/workspace/projects/lab03/solver_application/CMakeFiles/solver.dir/equation.cpp.o"
+  "/home/supsun/workspace/projects/lab04/solver_application/equation.cpp" "/home/supsun/workspace/projects/lab04/solver_application/CMakeFiles/solver.dir/equation.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -16,9 +16,9 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib/CMakeFiles/formatter_ex.dir/DependInfo.cmake"
-  "/home/supsun/workspace/projects/lab03/solver_application/solver_lib/CMakeFiles/solver_lib.dir/DependInfo.cmake"
-  "/home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib/formatter_lib/CMakeFiles/formatter.dir/DependInfo.cmake"
+  "/home/supsun/workspace/projects/lab04/solver_application/formatter_ex_lib/CMakeFiles/formatter_ex.dir/DependInfo.cmake"
+  "/home/supsun/workspace/projects/lab04/solver_application/solver_lib/CMakeFiles/solver_lib.dir/DependInfo.cmake"
+  "/home/supsun/workspace/projects/lab04/solver_application/formatter_ex_lib/formatter_lib/CMakeFiles/formatter.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

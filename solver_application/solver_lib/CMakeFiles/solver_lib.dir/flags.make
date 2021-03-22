@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/supsun/workspace/projects/lab03/solver_application/formatter_ex_lib -I/home/supsun/workspace/projects/lab03/solver_application/solver_lib 
+CXX_INCLUDES = -I/home/supsun/workspace/projects/lab04/solver_application/formatter_ex_lib -I/home/supsun/workspace/projects/lab04/solver_application/solver_lib 
 
