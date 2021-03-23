@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 4.3)
 project(hello_world)
 include_directories(formatter_ex_lib)
 add_subdirectory(formatter_ex_lib)
