@@ -5,7 +5,7 @@ script:
 - cmake .
 - make
 - cd ..
-- cd hello_worldd_application
+- cd hello_world_application
 - cmake .
 - make
 
