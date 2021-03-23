@@ -16,4 +16,4 @@ addons:
     packages:
       - cmake
       - cmake-data
-      - gcc
+      - g++
