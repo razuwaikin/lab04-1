@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.4)
+add_definitions(-std=c++0x)
 project(hello_world)
 include_directories(formatter_ex_lib)
 add_subdirectory(formatter_ex_lib)
