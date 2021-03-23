@@ -4,7 +4,8 @@ script:
 - cd solver_application
 - cmake .
 - make
-- cd ../hello_worldd_application
+- cd ..
+- cd hello_worldd_application
 - cmake .
 - make
 
