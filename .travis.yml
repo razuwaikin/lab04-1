@@ -2,11 +2,11 @@ language: cpp
 
 script:
 - cd solver_application
-- cmake .
+- cmake CMakeLists.txt
 - make
 - cd ..
 - cd hello_world_application
-- cmake .
+- cmake CMakeLists.txt
 - make
 
 addons:
